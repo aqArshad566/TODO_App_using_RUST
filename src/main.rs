@@ -2,9 +2,7 @@ use std::io;
 use self::operations::todos::TodoList;
 use self::operations::error::TodoError;
 
-
 mod operations;
-
 
 fn main() {
 
